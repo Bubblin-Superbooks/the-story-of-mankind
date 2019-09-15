@@ -1,0 +1,22 @@
+{
+  "name": "The Story of Mankind",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/the-story-of-mankind/master/assets",
+  "book_id": 1127,
+  "book_url": "https://bubblin.io/book/the-story-of-mankind-by-hendrik-willem-van-loon"
+}
